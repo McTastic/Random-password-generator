@@ -24,7 +24,7 @@ function writePassword() {
     }
   // user choices with confirmation boxes
     else { chooseUpper = confirm("Do you want uppercase letters?");
-    chooseLower = confirm("Do you want lowercae letters?");
+    chooseLower = confirm("Do you want lowercase letters?");
     chooseSymbols = confirm("Do you want symbols?");
     chooseNumbers = confirm("Do you want numbers?");
   }
